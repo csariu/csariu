@@ -1,10 +1,7 @@
 # 👋 <Hello, world />
 </br>
-</br>
 
 # 🚀 Expertise
-</br>
-
 </br>
 
 # 💻 Tech Stack
@@ -19,15 +16,11 @@
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
 <a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px"></a>
 
-</br>
-
 # 💻 Learning
 <a href="https://flutter.dev/" title="Flutter"><img src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" alt="Flutter" width="32px" height="21px"></a>
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="32px" height="21px"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
-
-</br>
 
 # 🌐 Socials
 <a href="https://instagram.com/csariu" title="Instagram"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="32px" height="21px"></a>
