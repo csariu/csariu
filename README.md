@@ -28,5 +28,6 @@
 <a href="https://behance.net/pedrocesario" title="Behance"><img src="https://github.com/get-icon/geticon/raw/master/icons/behance-icon.svg" alt="Behance" width="32px" height="21px"></a>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=csariu&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"  width="450px"/> [![GitHub Streak](https://streak-stats.demolab.com?user=csariu&theme=monokai&card_width=370)](https://git.io/streak-stats)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=csariu&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"  width="450px"/> [![GitHub Streak](https://streak-stats.demolab.com?user=csariu&theme=monokai&card_width=380)](https://git.io/streak-stats)
+
 ![snake gif](https://github.com/csariu/csariu/blob/output/github-contribution-grid-snake.svg)
