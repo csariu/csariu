@@ -19,7 +19,7 @@
 <a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 
 ## 📱 Socials
-<a href="https://instagram.com/csariu" target="_blank" title="Instagram"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="32px" height="21px"></a>
+<a href="https://instagram.com/csariu" title="Instagram" target=_blank><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="32px" height="21px"></a>
 <a href="https://linkedin.com/in/pedrocesario" title="Linkedin" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="32px" height="21px"></a>
 <a href="https://behance.net/pedrocesario" title="Behance" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/behance-icon.svg" alt="Behance" width="32px" height="21px"></a>
 
