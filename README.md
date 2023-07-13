@@ -19,11 +19,11 @@
 <a href="https://nodejs.org/" title="Node.js" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 
 ## 📱 Socials
-<a href="https://instagram.com/csariu" title="Instagram" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="32px" height="21px"></a>
-<a href="https://linkedin.com/in/pedrocesario" title="Linkedin" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="32px" height="21px"></a>
-<a href="https://behance.net/pedrocesario" title="Behance" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/behance-icon.svg" alt="Behance" width="32px" height="21px"></a>
+<a href="https://instagram.com/opedrocesario" title="Instagram" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="32px" height="21px"></a>
+<a href="https://linkedin.com/in/opedrocesario" title="Linkedin" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="32px" height="21px"></a>
+<a href="https://behance.net/opedrocesario" title="Behance" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/behance-icon.svg" alt="Behance" width="32px" height="21px"></a>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=csariu&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"  width="450px"/> [![GitHub Streak](https://streak-stats.demolab.com?user=csariu&theme=monokai&card_width=390)](https://git.io/streak-stats)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=opedrocesario&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"  width="450px"/> [![GitHub Streak](https://streak-stats.demolab.com?user=opedrocesario&theme=monokai&card_width=390)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/csariu/csariu/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/opedrocesario/opedrocesario/blob/output/github-contribution-grid-snake.svg)
