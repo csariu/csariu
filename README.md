@@ -20,7 +20,7 @@
 
 ## 📱 Socials
 <a href="https://instagram.com/opedrocesario" title="Instagram"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="32px" height="21px"></a>
-<a href="https://linkedin.com/in/opedrocesario" title="Linkedin""><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="32px" height="21px"></a>
+<a href="https://linkedin.com/in/opedrocesario" title="Linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="Linkedin" width="32px" height="21px"></a>
 <a href="https://behance.net/opedrocesario" title="Behance"><img src="https://github.com/get-icon/geticon/raw/master/icons/behance-icon.svg" alt="Behance" width="32px" height="21px"></a>
 
 ## 📊 GitHub Stats
